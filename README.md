@@ -10,12 +10,4 @@ If there is a special need for a project to be hosted here, let me know and I wi
 
 Thanks for visiting and enjoy!
 
-If you're here from stalking me on Advent of Code, here's a solutions index:
-
-* 2015 (Rust, complete): https://github.com/williewillus/advent_of_code_2015
-* 2016 (Clojure, nearly complete): https://github.com/williewillus/advent-of-code-2016/
-* 2017 (Rust, complete): https://github.com/williewillus/advent_of_code_2017
-* 2018 (C++, incomplete): https://github.com/williewillus/advent_of_code_2018
-* 2019 (OCaml, incomplete): https://github.com/williewillus/advent_of_code_2019/
-* 2020 (C, complete): https://git.sr.ht/~williewillus/aoc_2020
-* 2021 (Racket, in progress): https://hg.sr.ht/~williewillus/aoc-2021/
+If you're here from stalking me on Advent of Code, here's all my solutions: https://git.sr.ht/~williewillus/advent_of_code
