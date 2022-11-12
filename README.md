@@ -13,3 +13,8 @@ If there is a special need for a project to be hosted here, let me know and I wi
 Thanks for visiting and enjoy!
 
 If you're here from stalking me on Advent of Code, here's all my solutions: https://git.sr.ht/~williewillus/advent_of_code
+
+
+Identity/trust verification. I also control:
+
+* @williewillus:matrix.org
